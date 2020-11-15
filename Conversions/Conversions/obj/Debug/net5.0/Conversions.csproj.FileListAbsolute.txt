@@ -1,0 +1,15 @@
+/Users/caelan/Projects/Conversions/Conversions/bin/Debug/net5.0/Conversions.deps.json
+/Users/caelan/Projects/Conversions/Conversions/bin/Debug/net5.0/Conversions.runtimeconfig.json
+/Users/caelan/Projects/Conversions/Conversions/bin/Debug/net5.0/Conversions.runtimeconfig.dev.json
+/Users/caelan/Projects/Conversions/Conversions/bin/Debug/net5.0/Conversions.dll
+/Users/caelan/Projects/Conversions/Conversions/bin/Debug/net5.0/ref/Conversions.dll
+/Users/caelan/Projects/Conversions/Conversions/bin/Debug/net5.0/Conversions.pdb
+/Users/caelan/Projects/Conversions/Conversions/obj/Debug/net5.0/Conversions.csprojAssemblyReference.cache
+/Users/caelan/Projects/Conversions/Conversions/obj/Debug/net5.0/Conversions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caelan/Projects/Conversions/Conversions/obj/Debug/net5.0/Conversions.AssemblyInfoInputs.cache
+/Users/caelan/Projects/Conversions/Conversions/obj/Debug/net5.0/Conversions.AssemblyInfo.cs
+/Users/caelan/Projects/Conversions/Conversions/obj/Debug/net5.0/Conversions.csproj.CoreCompileInputs.cache
+/Users/caelan/Projects/Conversions/Conversions/obj/Debug/net5.0/Conversions.dll
+/Users/caelan/Projects/Conversions/Conversions/obj/Debug/net5.0/ref/Conversions.dll
+/Users/caelan/Projects/Conversions/Conversions/obj/Debug/net5.0/Conversions.pdb
+/Users/caelan/Projects/Conversions/Conversions/obj/Debug/net5.0/Conversions.genruntimeconfig.cache

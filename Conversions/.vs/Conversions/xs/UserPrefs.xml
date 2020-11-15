@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5A685B63-19BA-4148-9DBF-D21E643383AC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Conversions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Conversions/Program.cs">
+    <Files>
+      <File FileName="Conversions/Program.cs" Line="70" Column="1" />
+      <File FileName="Conversions/Name.cs" Line="6" Column="1" />
+      <File FileName="Conversions/DerivedName.cs" Line="44" Column="43" />
+      <File FileName="Conversions/Validator.cs" Line="10" Column="2" />
+      <File FileName="Conversions/Conversions.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Conversions" expanded="True">
+            <Node name="Conversions" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
