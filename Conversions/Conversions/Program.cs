@@ -57,7 +57,7 @@ namespace Conversions
             double input1, input2;
             char input;
 
-            input = Convert.ToChar(Console.Read());
+            input = Convert.ToChar(Console.ReadLine());
             switch (input)
             {
                 case 'f':
@@ -76,7 +76,7 @@ namespace Conversions
                 case 'k':
                 case 'P':
                 case 'K':
-                    Console.Write("Please enter the number of pounds and then press enter: ");
+                    Console.Write("\nPlease enter the number of pounds and then press enter: ");
                     input1 = Convert.ToDouble(Console.ReadLine());
                     conv.convertLbs_To_Kg(input1);
                     return goOrNo;

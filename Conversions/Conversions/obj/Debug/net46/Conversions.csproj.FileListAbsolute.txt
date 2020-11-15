@@ -1,0 +1,8 @@
+C:\Users\caela\Desktop\Conversions\Conversions\Conversions\bin\Debug\net46\Conversions.exe
+C:\Users\caela\Desktop\Conversions\Conversions\Conversions\bin\Debug\net46\Conversions.pdb
+C:\Users\caela\Desktop\Conversions\Conversions\Conversions\obj\Debug\net46\Conversions.csprojAssemblyReference.cache
+C:\Users\caela\Desktop\Conversions\Conversions\Conversions\obj\Debug\net46\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\caela\Desktop\Conversions\Conversions\Conversions\obj\Debug\net46\Conversions.AssemblyInfoInputs.cache
+C:\Users\caela\Desktop\Conversions\Conversions\Conversions\obj\Debug\net46\Conversions.AssemblyInfo.cs
+C:\Users\caela\Desktop\Conversions\Conversions\Conversions\obj\Debug\net46\Conversions.exe
+C:\Users\caela\Desktop\Conversions\Conversions\Conversions\obj\Debug\net46\Conversions.pdb

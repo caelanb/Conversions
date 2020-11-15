@@ -1,40 +1,45 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    ".NETFramework,Version=v4.6": {},
+    ".NETFramework,Version=v4.6/win7-x86": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    ".NETFramework,Version=v4.6": []
   },
   "packageFolders": {
-    "/Users/caelan/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\caela\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/caelan/Projects/Conversions/Conversions/Conversions.csproj",
+      "projectUniqueName": "C:\\Users\\caela\\Desktop\\Conversions\\Conversions\\Conversions\\Conversions.csproj",
       "projectName": "Conversions",
-      "projectPath": "/Users/caelan/Projects/Conversions/Conversions/Conversions.csproj",
-      "packagesPath": "/Users/caelan/.nuget/packages/",
-      "outputPath": "/Users/caelan/Projects/Conversions/Conversions/obj/",
+      "projectPath": "C:\\Users\\caela\\Desktop\\Conversions\\Conversions\\Conversions\\Conversions.csproj",
+      "packagesPath": "C:\\Users\\caela\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\caela\\Desktop\\Conversions\\Conversions\\Conversions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/caelan/.config/NuGet/NuGet.Config"
+        "C:\\Users\\caela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net46"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net46": {
           "projectReferences": {}
         }
       },
@@ -45,24 +50,11 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+      "net46": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
       }
     }
   }
